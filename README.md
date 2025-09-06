@@ -1,5 +1,3 @@
-Aquí tienes el README en formato Markdown listo para ser copiado y pegado en tu repositorio.
-
 -----
 
 # 📊 Análisis de Datos de Cáncer de Pulmón del NCCTG
