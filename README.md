@@ -1,8 +1,6 @@
------
+# 📊 [Análisis de Datos de Cáncer de Pulmón del NCCTG](https://github.com/sebastiandiazcol/NCCTG-Lung-Cancer-Data/blob/main/NCCTG.qmd)
 
-# 📊 Análisis de Datos de Cáncer de Pulmón del NCCTG
-
-[](https://www.google.com/search?q=/)
+[](https://github.com/sebastiandiazcol/NCCTG-Lung-Cancer-Data/blob/main/NCCTG.qmd)
 
 ## **Descripción del Proyecto**
 
@@ -30,10 +28,10 @@ El conjunto de datos contiene 228 observaciones y 9 variables, las cuales incluy
 | :--- | :--- | :--- |
 | `inst` | ID de la institución médica. | Numérico |
 | `time` | Tiempo de seguimiento en días hasta la muerte o censura. | Numérico |
-| `status` | Estado vital (0: Vivohttps://www.google.com/search?q=/Censurado, 1: Fallecido). | Numéricohttps://www.google.com/search?q=/Categórico |
+| `status` | Estado vital (0: Vivo/Censurado, 1: Fallecido). | Numérico/Categórico |
 | `age` | Edad del paciente en años. | Numérico |
-| `sex` | Género del paciente (0: Femenino, 1: Masculino). | Numéricohttps://www.google.com/search?q=/Categórico |
-| `ph.ecog` | Índice de estado funcional del ECOG. | Numéricohttps://www.google.com/search?q=/Categórico |
+| `sex` | Género del paciente (0: Femenino, 1: Masculino). | Numérico/Categórico |
+| `ph.ecog` | Índice de estado funcional del ECOG. | Numérico/Categórico |
 | `ph.karno` | Índice de Karnofsky del paciente. | Numérico |
 | `meal.cal` | Ingesta calórica diaria. | Numérico |
 | `wt.loss` | Pérdida de peso en los últimos 6 meses (lbs). | Numérico |
